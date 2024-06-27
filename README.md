@@ -1,4 +1,4 @@
-Latest Update: [Dashboard - Beta version](https://sample-fbtdashboard.netlify.app/) - A React Application
+Click here: [Dashboard - Beta version](https://sample-fbtdashboard.netlify.app/) - A React Application
 
 
 ![dashboard](https://iili.io/d3gq5MX.md.png)
