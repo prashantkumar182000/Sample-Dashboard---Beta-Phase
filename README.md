@@ -1,15 +1,11 @@
-Click here: [Dashboard - Beta version](https://sampledashboard-services.netlify.app/)
-
-
-
-
 # Services Dashboard Application
 
 
 Welcome to the Services Dashboard Application! This advanced, modern dashboard application is designed to provide users with an all-in-one solution for managing SMS, email, WhatsApp, and AI sales dial campaigns. The application is built using cutting-edge technologies to ensure a smooth and user-friendly experience, surpassing many bulk service providers in the market.
 
 ![dashboard](https://iili.io/d3gq5MX.md.png)
-Click here: [Dashboard - Beta version](https://sampledashboard-services.netlify.app/)
+
+Click here: [Services Dashboard](https://sampledashboard-services.netlify.app/)
 
 ## 🚀 Features
 
