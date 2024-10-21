@@ -1,11 +1,8 @@
 # Services Dashboard Application
 
-
-Welcome to the Services Dashboard Application! This advanced, modern dashboard application is designed to provide users with an all-in-one solution for managing SMS, email, WhatsApp, and AI sales dial campaigns. The application is built using cutting-edge technologies to ensure a smooth and user-friendly experience, surpassing many bulk service providers in the market.
-
-
 https://github.com/user-attachments/assets/77361ad7-4d63-48fd-ad37-7f3c2cfd4833
 
+Welcome to the Services Dashboard Application! This advanced, modern dashboard application is designed to provide users with an all-in-one solution for managing SMS, email, WhatsApp, and AI sales dial campaigns. The application is built using cutting-edge technologies to ensure a smooth and user-friendly experience, surpassing many bulk service providers in the market.
 
 Click here: [Services Dashboard](https://sampledashboard-services.netlify.app/)
 
