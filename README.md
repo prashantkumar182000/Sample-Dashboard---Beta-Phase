@@ -1,4 +1,4 @@
-# Services Dashboard Application
+# Services Dashboard Application [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 https://github.com/user-attachments/assets/77361ad7-4d63-48fd-ad37-7f3c2cfd4833
 
